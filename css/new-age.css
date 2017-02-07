@@ -157,7 +157,7 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg.jpg"), #7b4397;
+  background: url("../img/bg.jpg"), white;
   background-repeat: no-repeat;
   background-size: cover;
   /* fallback for old browsers
